@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./satiraeetliberpr00petruoft_0009.png"; bbox 0 0 1682 2898; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 192 971 1348 1222">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 192 971 1348 1222">
+     <span class='ocr_line' id='line_1_1' title="bbox 429 971 1122 1039; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 429 973 771 1039; x_wconf 84' lang='lat' dir='ltr'><strong>PETRONII</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 821 971 1122 1037; x_wconf 88' lang='lat' dir='ltr'><strong>ARBITRI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 192 1152 1348 1222; baseline -0.006 0"><span class='ocrx_word' id='word_1_3' title='bbox 192 1155 769 1222; x_wconf 80' lang='lat' dir='ltr'><strong>SATIRARVM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 827 1152 1348 1217; x_wconf 84' lang='lat' dir='ltr'><strong>EXCERPTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 512 1329 1046 1367">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 512 1329 1046 1367">
+     <span class='ocr_line' id='line_1_3' title="bbox 512 1329 1046 1367; baseline -0.004 -1"><span class='ocrx_word' id='word_1_5' title='bbox 512 1330 580 1366; x_wconf 87' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 602 1330 759 1366; x_wconf 88' lang='lat' dir='ltr'><strong>LIBRIS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 783 1329 851 1367; x_wconf 81' lang='lat' dir='ltr'><strong>XV</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 874 1329 939 1365; x_wconf 86' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 962 1329 1046 1365; x_wconf 89' lang='lat' dir='ltr'><strong>XVI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 102 2251 1464 2298">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 102 2251 1464 2298">
+     <span class='ocr_line' id='line_1_4' title="bbox 102 2251 1464 2298; baseline -0.002 -12"><span class='ocrx_word' id='word_1_10' title='bbox 102 2254 187 2288; x_wconf 85' lang='lat' dir='ltr'><strong>libro</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 211 2253 294 2288; x_wconf 84' lang='lat' dir='ltr'>xull</span> <span class='ocrx_word' id='word_1_12' title='bbox 319 2257 425 2298; x_wconf 77' lang='lat' dir='ltr'><strong><em>eaput</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 447 2254 492 2288; x_wconf 76' lang='lat'><strong>20</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 515 2254 726 2296; x_wconf 69' lang='lat' dir='ltr'><em>adse&#39;gnatur</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 750 2255 787 2286; x_wconf 79' lang='lat' dir='ltr'><strong>ln</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 812 2256 924 2286; x_wconf 77' lang='lat' dir='ltr'><strong><em>vetere</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 948 2252 1134 2294; x_wconf 77' lang='lat' dir='ltr'><em>Fulgentii</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1158 2251 1275 2285; x_wconf 81' lang='lat' dir='ltr'><em>codice</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1310 2251 1388 2284; x_wconf 77' lang='lat' dir='ltr'><em>vide</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 1411 2252 1464 2284; x_wconf 78' lang='lat' dir='ltr'><strong>ibi</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
